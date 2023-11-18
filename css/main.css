@@ -253,7 +253,13 @@ img {
         top: -63px;
         width: 100%;
     }
+
+    .info .btn {
+        margin-bottom: 170px;
+    }
 }
+
+
 
 /*Info section end */
 
